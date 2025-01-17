@@ -134,7 +134,8 @@
     </div>
     <script>
         // Toggle visibility of forms
-        document.getElementById('organizer-btn').addEventListener('click', function () {
+    // Hy Ky blaa aye
+    document.getElementById('organizer-btn').addEventListener('click', function () {
             document.getElementById('organizer-form').style.display = 'block';
             document.getElementById('attendee-form').style.display = 'none';
         });
@@ -175,3 +176,7 @@
     </script>
 </body>
 </html>
+
+
+// this is simple Form Please ☺️ Ignore 
+// hello this is my Coding Jrny 
